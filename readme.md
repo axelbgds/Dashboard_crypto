@@ -1,4 +1,4 @@
 Fichier Explicaton diponible dans repertoire source :
-Examen Bloc 3.pdf
+https://github.com/axelbgds/09_CMC_CT/blob/main/Examen%20Bloc%203.pdf
 
 Site disponnible sur le site netlify
